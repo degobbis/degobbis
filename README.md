@@ -1,6 +1,8 @@
 ## My Holopin badges 
 
 [![An image of @degobbis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/degobbis)](https://holopin.io/@degobbis)
+
+My Joomla! extensions are published under the organisation [JoomTools](https://github.com/joomtools)
 <!--
 **degobbis/degobbis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
